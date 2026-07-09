@@ -1,0 +1,8 @@
+This function requires a user_id as a mandatory argument.
+Once the user_id is received, it connects to an e-commerce URL and provides
+the following information about the order of the user:
+- item name 
+- delivery date
+- status of the order 
+
+If the user_id is not provided, the function will not be able to work successfully.
